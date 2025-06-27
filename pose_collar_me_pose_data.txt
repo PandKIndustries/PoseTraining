@@ -1,0 +1,13 @@
+--- Pose Detection Parameters ---
+Left Elbow Angle: 48.39
+Right Elbow Angle: 55.78
+Left Wrist (x,y): (0.58, 0.14)
+Right Wrist (x,y): (0.41, 0.13)
+Left Shoulder (x,y): (0.64, 0.30)
+Right Shoulder (x,y): (0.33, 0.31)
+Left Knee Angle: 16.57
+Right Knee Angle: 9.72
+Left Hip Angle: 127.58
+Right Hip Angle: 122.11
+Left Hip.y - Left Knee.y: -0.1895
+-------------------------------
